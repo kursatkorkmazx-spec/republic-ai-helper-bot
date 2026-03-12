@@ -151,3 +151,4 @@ Built by **goldify** as a community contribution to the Republic AI Developer ec
 ---
 
 *Open source. Free to use. Built for the Republic AI community.*
+"# republic-ai-helper-bot" 
