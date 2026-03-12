@@ -1,6 +1,6 @@
-# 🌐 Republic AI Testnet Stats Bot
+# 🌐 Republic AI Testnet Helper Bot
 
-A powerful Telegram bot providing real-time statistics, monitoring, and alerts for the **Republic AI Testnet** — built as a community contribution for the Developer role.
+A powerful Telegram bot providing real-time statistics, monitoring, and alerts for the **Republic AI Testnet**
 
 [![Republic AI](https://img.shields.io/badge/Republic%20AI-Testnet-blue)](https://republicai.io)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://python.org)
@@ -142,7 +142,7 @@ republic-ai-stats-bot/
 
 ## 👤 Author
 
-Built by **goldify** as a community contribution to the Republic AI Developer ecosystem.
+Built by **solscammer** as a community contribution to the Republic AI Developer ecosystem.
 
 - 🐦 Republic AI X: [@republicfdn](https://x.com/republicfdn)
 - 💬 Discord: [Join here](https://discord.com/invite/Fv33CVnC3R)
