@@ -2,9 +2,12 @@
 
 A powerful Telegram bot providing real-time statistics, monitoring, and alerts for the **Republic AI Testnet**
 
-[![Republic AI](https://img.shields.io/badge/Republic%20AI-Testnet-blue)](https://republicai.io)
-[![Python](https://img.shields.io/badge/Python-3.10+-green)](https://python.org)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue)](https://t.me)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@republicaihelperbot-blue)](https://t.me/republicaihelperbot)
+[![Republic AI]![Republic AI](https://img.shields.io/badge/Republic%20AI-Testnet-blue)](https://republicai.io)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@republicaihelperbot-blue)](https://t.me/republicaihelperbot)
+[![Republic AI]![Python](https://img.shields.io/badge/Python-3.10+-green)](https://python.org)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@republicaihelperbot-blue)](https://t.me/republicaihelperbot)
+[![Republic AI]![Telegram](https://img.shields.io/badge/Telegram-Bot-blue)](https://t.me)
 
 ---
 
